@@ -6,13 +6,13 @@ This project analyzes Reddit user opinions and sentiment on the Israel-Palestine
 
 Key Findings:
 
-Highly Polarized Community: Most Reddit users take a clear side, with nearly equal numbers supporting Palestine and Israel. Only a small minority remain neutral.
+1. Highly Polarized Community: Most Reddit users take a clear side, with nearly equal numbers supporting Palestine and Israel. Only a small minority remain neutral.
 
-Overwhelmingly Negative Tone: Negative sentiment dominates both user opinions and comments for all sides. Positive perspectives are extremely rare, and neutral sentiment is mainly found among users not taking a side.
+2. Overwhelmingly Negative Tone: Negative sentiment dominates both user opinions and comments for all sides. Positive perspectives are extremely rare, and neutral sentiment is mainly found among users not taking a side.
 
-Consistent Engagement Patterns: User activity and comment volume are much higher among those taking sides, with spikes corresponding to major events. Neutral participation remains low and steady.
+3. Consistent Engagement Patterns: User activity and comment volume are much higher among those taking sides, with spikes corresponding to major events. Neutral participation remains low and steady.
 
-No Positive Shift Post-Inauguration: Despite expectations that a new U.S. president might change the tone or outlook, the data shows no sign of improvement or optimism. The conversation remains deeply divided and negative throughout the analyzed period.
+4. No Positive Shift Post-Inauguration: Despite expectations that a new U.S. president might change the tone or outlook, the data shows no sign of improvement or optimism. The conversation remains deeply divided and negative throughout the analyzed period.
 
 Conclusion:
 Reddit discussions about the Israel-Palestine conflict remain tense, polarized, and overwhelmingly negative, with no evidence of positive change or reduced polarization after the change in U.S. leadership.
